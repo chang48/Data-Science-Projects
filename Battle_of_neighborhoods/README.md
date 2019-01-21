@@ -1,4 +1,4 @@
-#Battle of the Neighborhood 
+# Battle of the Neighborhood 
 
 An investor is looking to open a new restaurant in San Francisco, but he 
 is not sure about the best location for his new venue and needs input for
