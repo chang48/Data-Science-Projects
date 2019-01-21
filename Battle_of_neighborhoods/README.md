@@ -11,3 +11,6 @@ In this project, we address the question: how do you choose a new restaurant
 location? By using publicly available data, a location search engine, and a 
 clustering algorithm, we can come up with a reasonable recommendation for new
 restaurant locations using data science analysis.
+
+Read the location analysis Jupyter notebook on nbviwer:
+[Location analysis](https://nbviewer.jupyter.org/github/chang48/Data-Science-Projects/blob/master/Battle_of_neighborhoods/location_analysis.ipynb)
