@@ -1,0 +1,142 @@
+[
+    {
+        "Store ID": 66999, 
+        "Banner": "WS1", 
+        "Region": "North Carolina"
+    }, 
+    {
+        "Store ID": 4698, 
+        "Banner": "TT", 
+        "Region": "North Carolina"
+    }, 
+    {
+        "Store ID": 39482, 
+        "Banner": "SS", 
+        "Region": "North Carolina"
+    }, 
+    {
+        "Store ID": 34957, 
+        "Banner": "WS3", 
+        "Region": "North Carolina"
+    }, 
+    {
+        "Store ID": 12837, 
+        "Banner": "WS1", 
+        "Region": "New Jersey"
+    }, 
+    {
+        "Store ID": 9487, 
+        "Banner": "TT", 
+        "Region": "New Jersey"
+    }, 
+    {
+        "Store ID": 2938, 
+        "Banner": "WS2", 
+        "Region": "New Jersey"
+    }, 
+    {
+        "Store ID": 50948, 
+        "Banner": "WS3", 
+        "Region": "New Jersey"
+    }, 
+    {
+        "Store ID": 40593, 
+        "Banner": "WS1", 
+        "Region": "Kentucky"
+    }, 
+    {
+        "Store ID": 29384, 
+        "Banner": "TT", 
+        "Region": "Kentucky"
+    }, 
+    {
+        "Store ID": 3948, 
+        "Banner": "WS2", 
+        "Region": "Kentucky"
+    }, 
+    {
+        "Store ID": 39485, 
+        "Banner": "SS", 
+        "Region": "Kentucky"
+    }, 
+    {
+        "Store ID": 39287, 
+        "Banner": "WS3", 
+        "Region": "Kentucky"
+    }, 
+    {
+        "Store ID": 50495, 
+        "Banner": "WS1", 
+        "Region": "Tennessee"
+    }, 
+    {
+        "Store ID": 40586, 
+        "Banner": "TT", 
+        "Region": "Tennessee"
+    }, 
+    {
+        "Store ID": 98638, 
+        "Banner": "WS2", 
+        "Region": "Tennessee"
+    }, 
+    {
+        "Store ID": 29382, 
+        "Banner": "SS", 
+        "Region": "Tennessee"
+    }, 
+    {
+        "Store ID": 98736, 
+        "Banner": "WS3", 
+        "Region": "Tennessee"
+    }, 
+    {
+        "Store ID": 6746, 
+        "Banner": "KM", 
+        "Region": "North Carolina"
+    }, 
+    {
+        "Store ID": 77955, 
+        "Banner": "KM", 
+        "Region": "New Jersey"
+    }, 
+    {
+        "Store ID": 66356, 
+        "Banner": "KM", 
+        "Region": "Tennessee"
+    }, 
+    {
+        "Store ID": 99997, 
+        "Banner": "KM", 
+        "Region": "Kentucky"
+    }, 
+    {
+        "Store ID": 29342, 
+        "Banner": "WS1", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 11123, 
+        "Banner": "TT", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 39284, 
+        "Banner": "WS2", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 40582, 
+        "Banner": "SS", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 59582, 
+        "Banner": "WS3", 
+        "Region": "Hawaii"
+    }, 
+    {
+        "Store ID": 50692, 
+        "Banner": "KM", 
+        "Region": "Hawaii"
+    }
+]
